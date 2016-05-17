@@ -1,0 +1,4 @@
+github "onevcat/Kingfisher" ~> 2.3.1
+github "ReSwift/ReSwift" ~> 1.0.0
+github "thii/FontAwesome.swift" ~> 0.7.3
+
