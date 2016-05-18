@@ -1,2 +1,2 @@
-// This is dummy to avoid configuration reset.
+// This is dummy file for avoiding configuration reset.
 #include "Fabric.xcconfig"
